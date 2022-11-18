@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 <h2 align="center">Whatsapp number <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">    <a href="https://wa.me/083844312338">click here!</a></h2>
-
+[![@bulbullshit's Holopin board](https://holopin.me/bulbullshit)](https://holopin.io/@bulbullshit)
 
 ```python
 import bitches
